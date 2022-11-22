@@ -1,0 +1,6 @@
+classes= 36
+test  = ASL_data/test.txt
+train  = ASL_data/train.txt
+valid  = ASL_data/valid.txt
+names = ASL_data/obj.names
+backup = backup/

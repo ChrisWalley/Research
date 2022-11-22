@@ -1,0 +1,140 @@
+item  {
+  id: 1
+  name: '0'
+}
+item  {
+  id: 2
+  name: '1'
+}
+item  {
+  id: 3
+  name: '2'
+}
+item  {
+  id: 4
+  name: '3'
+}
+item  {
+  id: 5
+  name: '4'
+}
+item  {
+  id: 6
+  name: '5'
+}
+item  {
+  id: 7
+  name: '6'
+}
+item  {
+  id: 8
+  name: '7'
+}
+item  {
+  id: 9
+  name: '8'
+}
+item  {
+  id: 10
+  name: '9'
+}
+item  {
+  id: 11
+  name: 'A'
+}
+item  {
+  id: 12
+  name: 'B'
+}
+item  {
+  id: 13
+  name: 'C'
+}
+item  {
+  id: 14
+  name: 'del'
+}
+item  {
+  id: 15
+  name: 'nothing'
+}
+item  {
+  id: 16
+  name: 'space'
+}
+item  {
+  id: 17
+  name: 'D'
+}
+item  {
+  id: 18
+  name: 'E'
+}
+item  {
+  id: 19
+  name: 'F'
+}
+item  {
+  id: 20
+  name: 'G'
+}
+item  {
+  id: 21
+  name: 'H'
+}
+item  {
+  id: 22
+  name: 'I'
+}
+item  {
+  id: 23
+  name: 'J'
+}
+item  {
+  id: 24
+  name: 'K'
+}
+item  {
+  id: 25
+  name: 'L'
+}
+item  {
+  id: 26
+  name: 'M'
+}
+item  {
+  id: 27
+  name: 'N'
+}
+item  {
+  id: 28
+  name: 'P'
+}
+item  {
+  id: 29
+  name: 'Q'
+}
+item  {
+  id: 30
+  name: 'R'
+}
+item  {
+  id: 31
+  name: 'S'
+}
+item  {
+  id: 32
+  name: 'T'
+}
+item  {
+  id: 33
+  name: 'U'
+}
+item  {
+  id: 34
+  name: 'X'
+}
+item  {
+  id: 35
+  name: 'Y'
+}

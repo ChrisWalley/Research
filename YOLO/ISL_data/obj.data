@@ -1,0 +1,6 @@
+classes= 36
+test  = ISL_data/test.txt
+train  = ISL_data/train.txt
+valid  = ISL_data/valid.txt
+names = ISL_data/obj.names
+backup = backup/
